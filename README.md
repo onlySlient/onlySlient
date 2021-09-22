@@ -1,7 +1,12 @@
+# onlySlient.github.com
+个人主页
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=onlySlient&count_private=true&show_icons=true"/>
+
 ### Hi there 👋
 
+- ⚡ Fun fact: I'am a developer!
 <!--
-**onlySlient/onlySlient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LeonDevLifeLog/leondevlifelog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
